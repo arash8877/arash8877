@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/arash8877/arash8877/main/githubarash-header-image.png)
 <h3 align="center">A passionate web developer from Denmark</h3>
-<img align=“right” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif” />
+<img align='right' alt='programmer' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arash8877&label=Profile%20views&color=0e75b6&style=flat" alt="arash8877" /> </p>
 
