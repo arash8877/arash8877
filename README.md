@@ -1,19 +1,55 @@
 ![MasterHead](https://raw.githubusercontent.com/arash8877/arash8877/main/githubarash-header-image.png)
-<h3 align="center">A passionate web developer from Denmark</h3>
-<img align='right' alt='programmer' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arash8877&label=Profile%20views&color=0e75b6&style=flat" alt="arash8877" /> </p>
+<h2 align="center">Hi, I'm Arash — Web Developer & AI Specialist based in Denmark</h2>
 
-- 📫 How to reach me **arash8877@gmail.com**
-
-<p align="left">
+<p align="center">
+I build modern, fast, and scalable applications using React, Next.js, TypeScript, Node.js, and .NET.  
+My focus is on high-quality frontend engineering and creating real, functional AI-powered products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arash8877&show_icons=true&locale=en&layout=compact" alt="arash8877" /></p>
+### 🚀 About Me
+- 💻 Full-stack developer with strong frontend focus  
+- 🤖 AI-driven development (LLM integration, automation, prompt engineering)  
+- 🌍 Based in Denmark with 15+ completed projects  
+- 📧 Reach me at **arash8877@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arash8877&show_icons=true&locale=en" alt="arash8877" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arash8877&" alt="arash8877" /></p>
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,dotnet,postgres,mysql,git,github,postman" />
+</p>
+
+---
+
+### 📌 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| **TivoliBot** | AI chatbot summarizing thousands of reviews | Next.js, OpenAI, Node.js |
+| **Customer Service AI Desk** | AI email + phone + review assistant with human-in-the-loop | Next.js, Python, LLMs |
+| **ArashTickets** | Full airline-ticketing system | Next.js, .NET, PostgreSQL |
+| **JobBank** | Job board platform with admin + candidate system | React, Node, Prisma |
+
+*(Add links to repos later.)*
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arash8877&show_icons=true&layout=compact" height="160px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=arash8877&show_icons=true" height="160px"/>
+</p>
+
+<br><br><br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arash8877"/>
+</div>
+
+---
+
+### 👀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=arash8877&label=Profile%20views&color=0e75b6&style=flat"/>
+
