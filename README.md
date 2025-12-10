@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/arash8877/arash8877/main/githubarash-header-image.png)
+![MasterHead](https://raw.githubusercontent.com/arash8877/arash8877/main/github-banner-1.png)
 
 <h2 align="center">Hi, I'm Arash — Web Developer & AI Specialist based in Denmark</h2>
 
