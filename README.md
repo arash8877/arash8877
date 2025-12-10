@@ -12,7 +12,7 @@ My focus is on high-quality frontend engineering and creating real, functional A
 ### 🚀 About Me
 - 💻 Full-stack developer with strong frontend focus  
 - 🤖 AI-driven development (LLM integration, automation, prompt engineering)  
-- 🌍 Based in Denmark with 15+ completed projects  
+- 🌍 Based in Denmark with 20+ completed projects  
 - 📧 Reach me at **arash8877@gmail.com**
 
 ---
